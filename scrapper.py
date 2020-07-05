@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Feb 16 08:40:51 2020
-
-@author: Vishal Rana
-"""
 #import basic libraries to scrap data and sending emails
 import requests
 from bs4 import BeautifulSoup
