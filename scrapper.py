@@ -68,3 +68,5 @@ def send_mail2():
     
 check_price()
 
+#sbfjiegbejkgbjekg
+
